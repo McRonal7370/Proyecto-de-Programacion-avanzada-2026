@@ -10,8 +10,7 @@ Se identificará como la carpeta **A**.
 ## 📁 Proyecto-de-programacion-ESP32-2
 Se identificará como la carpeta **B**.
 
-## 📁 Proyecto-de-programacion-ESP32-3
-Se identificará como la carpeta **C**.
+
 
 # Información General
 
@@ -40,13 +39,8 @@ En esta carpeta se encuentra el código del ESP32 receptor.
 Sus funciones principales son:
 - Recibir los datos enviados por el ESP32 emisor.
 - Procesar la información recibida.
-- Enviar los datos mediante comunicación serial hacia el sistema principal.
+- se conecata con serial para ser procesada y visualizada en java 
 
-## Carpeta C — Comunicación con el Servidor
-En esta carpeta se desarrolla la parte encargada de:
-- Recibir datos seriales provenientes del ESP32 receptor.
-- Procesar la información recibida.
-- Conectarse con el servidor y gestionar el envío de datos.
 
 # Estructura del Código
 En cada proyecto, el código principal se encuentra dentro de:
