@@ -32,7 +32,7 @@ Sus funciones principales son:
 - Leer las señales provenientes de los sensores.
 - Procesar los datos obtenidos.
 - Enviar la información al ESP32 receptor.
-
+- Ejecutar instrucciones de control dada por los sensores y el controlador 
 ## Carpeta B — ESP32 Receptor
 
 En esta carpeta se encuentra el código del ESP32 receptor.
@@ -40,7 +40,7 @@ Sus funciones principales son:
 - Recibir los datos enviados por el ESP32 emisor.
 - Procesar la información recibida.
 - se conecata con serial para ser procesada y visualizada en java 
-
+- Enviar respuestas al ESP32 Emisor para que ejecute respuestas (ativar bomba, encender ventilador, controlar la luminosidad del foco)
 
 # Estructura del Código
 En cada proyecto, el código principal se encuentra dentro de:
