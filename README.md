@@ -57,5 +57,5 @@ Los integrantes encargados de la parte desarrollada en Java pueden subir sus arc
 Se recomienda mantener una estructura ordenada en cada carpeta y documentar adecuadamente los cambios importantes realizados durante el desarrollo del proyecto.
 
 # Eso es todo bebiiiii
-Autor : Ronal Meza 
-Para los amigos MacRonal 7370
+-Autor : Ronal Meza 
+-Para los amigos MacRonal 7370
